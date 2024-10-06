@@ -1,0 +1,12 @@
+{
+  "name": "@payrollers/tooling-tailwind",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    ".": "./tailwind.config.ts"
+  },
+  "devDependencies": {
+    "@payrollers/tooling-typescript": "workspace:*",
+    "tailwindcss": "^3.4.1"
+  }
+}
